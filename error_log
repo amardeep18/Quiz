@@ -1,0 +1,6 @@
+[19-Dec-2017 13:40:10 Asia/Kolkata] PHP Fatal error:  Call to undefined function mysqli_init() in /home/unlimited/public_html/devopsschool/quiz/system/database/drivers/mysqli/mysqli_driver.php on line 142
+[08-Jan-2018 22:21:26 Asia/Kolkata] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/unlimited/public_html/devopsschool/quiz/application/models/Result_model.php on line 152
+[08-Jan-2018 22:21:40 Asia/Kolkata] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/unlimited/public_html/devopsschool/quiz/application/models/Result_model.php on line 152
+[08-Jan-2018 22:21:47 Asia/Kolkata] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/unlimited/public_html/devopsschool/quiz/application/models/Result_model.php on line 152
+[08-Jan-2018 22:21:54 Asia/Kolkata] PHP Fatal error:  Call to a member function num_rows() on boolean in /home/unlimited/public_html/devopsschool/quiz/application/models/Result_model.php on line 152
+[12-Jan-2018 10:59:17 Asia/Kolkata] PHP Fatal error:  Call to a member function result_array() on boolean in /home/unlimited/public_html/devopsschool/quiz/application/models/Liveclass_model.php on line 21
